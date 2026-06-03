@@ -39,7 +39,7 @@ inspectx-python/
 ├── main.py                         # Entry point
 ├── requirements.txt
 ├── assets/
-│   └── hestabit-logo.jpg           # Company logo
+│   └── logo.jpg           # Company logo
 └── app/
     ├── database/
     │   ├── engine.py               # SQLAlchemy engine + session
